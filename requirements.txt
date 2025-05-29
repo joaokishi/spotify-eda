@@ -1,6 +1,6 @@
 pandas
 seaborn
 datetime
-matplotlib.pyplot
+matplotlib
 ipywidgets
 plotly
