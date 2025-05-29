@@ -4,4 +4,4 @@ datetime
 matplotlib
 ipywidgets
 plotly
-viola
+voila
