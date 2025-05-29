@@ -1,0 +1,6 @@
+pandas
+seaborn
+datetime
+matplotlib.pyplot
+ipywidgets
+plotly
